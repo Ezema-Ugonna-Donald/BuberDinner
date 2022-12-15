@@ -1,0 +1,12 @@
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net6.0\BuberDinner.Domain.deps.json
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net6.0\BuberDinner.Domain.dll
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\bin\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.AssemblyInfo.cs
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.dll
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\refint\BuberDinner.Domain.dll
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\BuberDinner.Domain.pdb
+C:\Users\Donald Ezema\Documents\deus\work\personal\cleanarchitecture\BuberDinner\BuberDinner.Domain\obj\Debug\net6.0\ref\BuberDinner.Domain.dll
